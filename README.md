@@ -10,3 +10,8 @@ Chat about [Yao](http://yaoquantum.org/), [ITensor](https://github.com/ITensor/I
 Topics to discuss:
 
 - A Julian lattice package
+- Status of Julia library support for specialized tensor operation backends
+  * CUTensor support in CuArrays
+  * Support for TBLIS, GETT and similar?
+- Domain specific automatic differentiation (AD)
+  * AD through SVD in Julia libraries such as Zygote
