@@ -11,7 +11,14 @@ Topics to discuss:
 
 - A Julian lattice package
 - Status of Julia library support for specialized tensor operation backends
-  * CUTensor support in CuArrays
+  * CuTensor support in CuArrays
   * Support for TBLIS, GETT and similar?
+  * Algorithms people want (TDVP, TEBD, tDMRG, any four letter acronym like this)
 - Domain specific automatic differentiation (AD)
   * AD through SVD in Julia libraries such as Zygote
+- GPU stuff
+  * multi GPU parallelism
+  * exploiting mixed precision for some quantum libraries
+- Tutorial writing
+- Julia quantum as a teaching tool - interactive graph demos?
+- Benchmarking within the Julia community and compared to other packages
