@@ -18,9 +18,16 @@ Topics to discuss:
   * Algorithms people want (TDVP, TEBD, tDMRG, any four letter acronym like this)
 - Domain specific automatic differentiation (AD)
   * AD through SVD in Julia libraries such as Zygote
+  * A one for all solution to AD - Reversible Programming.
 - GPU stuff
   * multi GPU parallelism
   * exploiting mixed precision for some quantum libraries
 - Tutorial writing
 - Julia quantum as a teaching tool - interactive graph demos?
 - Benchmarking within the Julia community and compared to other packages
+- Brief report of the maintainace of OMEinsum.
+- Brain Storm: Generic elements in a tensor network/quantum simulator.
+  * Tropical Numbers: https://gist.github.com/GiggleLiu/db9efa143aefbbe1d542e7b78d3a65bc
+  * Dual numbers
+  * Counting Tropical numbers
+  * More?
