@@ -30,6 +30,8 @@ Topics to discuss:
 - Tutorial writing
 - Julia quantum as a teaching tool - interactive graph demos? *
 - Benchmarking within the Julia community and compared to other packages *
+
+## Brain Storm 
 - Brain Storm: Generic elements in a tensor network/quantum simulator.
   * Tropical Numbers: https://gist.github.com/GiggleLiu/db9efa143aefbbe1d542e7b78d3a65bc
   * Dual numbers
