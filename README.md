@@ -18,6 +18,7 @@ Chat about [Yao](http://yaoquantum.org/), [ITensor](https://github.com/ITensor/I
   * exploiting mixed precision for some quantum libraries
 - Brief report of the maintainace of OMEinsum.
 - what else do you want in Yao.jl? your wishlist for quantum computing in Julia.
+- quantum circuit simulation
 - quantum control 
 
 ## Ask around
