@@ -11,6 +11,7 @@ Topics to discuss:
 
 - A Julian lattice package
 - what else do you want in Yao.jl?
+- sharing quantum state objects between QuantumOptics.jl, QuantumInformation.jl, Yao.jl and others.
 - Status of Julia library support for specialized tensor operation backends
   * CuTensor support in CuArrays
   * Support for TBLIS, GETT and similar?
