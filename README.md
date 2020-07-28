@@ -10,7 +10,7 @@ Chat about [Yao](http://yaoquantum.org/), [ITensor](https://github.com/ITensor/I
 Topics to discuss:
 
 - A Julian lattice package
-- what else do you want in Yao.jl?
+- what else do you want in Yao.jl? your wishlist for quantum computing in Julia.
 - sharing quantum state objects between QuantumOptics.jl, QuantumInformation.jl, Yao.jl and others.
 - Status of Julia library support for specialized tensor operation backends
   * CuTensor support in CuArrays
