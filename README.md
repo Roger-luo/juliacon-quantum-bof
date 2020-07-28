@@ -10,6 +10,7 @@ Chat about [Yao](http://yaoquantum.org/), [ITensor](https://github.com/ITensor/I
 Topics to discuss:
 
 - A Julian lattice package
+- what else do you want in Yao.jl?
 - Status of Julia library support for specialized tensor operation backends
   * CuTensor support in CuArrays
   * Support for TBLIS, GETT and similar?
