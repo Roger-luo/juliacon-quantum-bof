@@ -7,6 +7,9 @@ Chat about [Yao](http://yaoquantum.org/), [ITensor](https://github.com/ITensor/I
 
 ## Description
 
+## Self Intro
+
+## Priority Topics
 - Domain specific automatic differentiation (AD)
   * AD through SVD in Julia libraries such as Zygote
   * A one for all solution to AD - Reversible Programming.
@@ -37,5 +40,4 @@ Topics to discuss:
   * Dual numbers
   * Counting Tropical numbers
   * More?
-- Quantum optimal control in Julia
 
