@@ -37,3 +37,5 @@ Topics to discuss:
   * Dual numbers
   * Counting Tropical numbers
   * More?
+- Quantum optimal control in Julia
+
