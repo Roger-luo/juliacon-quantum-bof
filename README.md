@@ -11,21 +11,21 @@ Chat about [Yao](http://yaoquantum.org/), [ITensor](https://github.com/ITensor/I
 
 ## Priority Topics
 - Domain specific automatic differentiation (AD)
-  * AD through SVD in Julia libraries such as Zygote
-  * A one for all solution to AD - Reversible Programming.
+  * AD through SVD in Julia libraries such as [Zygote](https://github.com/FluxML/Zygote.jl)
+  * A one for all solution to AD - Reversible Programming [NiLang](https://github.com/FluxML/Zygote.jl).
 - GPU stuff
-  * multi GPU parallelism
+  * multi GPU parallelism [CUDA](https://github.com/JuliaGPU/CUDA.jl)
   * exploiting mixed precision for some quantum libraries
-- Brief report of the maintainace of OMEinsum.
-- what else do you want in Yao.jl? your wishlist for quantum computing in Julia.
+- Brief report of the maintainace of [OMEinsum](https://github.com/under-Peter/OMEinsum.jl).
+- what else do you want in [Yao.jl](https://github.com/QuantumBFS/Yao.jl)? your wishlist for quantum computing in Julia.
 - quantum circuit simulation
-- quantum control 
+- quantum control (Alastair)
 
 ## Ask around
-- sharing quantum state objects between QuantumOptics.jl, QuantumInformation.jl, Yao.jl and others.
-- A Julian lattice package (Alastair)
+- sharing quantum state objects between [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl), [QuantumInformation.jl](https://github.com/iitis/QuantumInformation.jl), Yao.jl and others.
+- A Julian lattice package [Lattices.jl](https://github.com/JuliaPhysics/Lattices.jl)
 
-Topics to discuss:
+## Other Topics to discuss:
 
 - Status of Julia library support for specialized tensor operation backends
   * CuTensor support in CuArrays
